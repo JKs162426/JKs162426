@@ -5,7 +5,7 @@
 I build full-stack web applications from the database up to the UI — clean APIs,
 solid data models and interfaces people actually want to use. Before software I
 taught English in Venezuela, which gave me a methodical, structured way of
-approaching problems. I work in English and Spanish.
+approaching problems. I work in English, Spanish and Italian.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jfigueroa.dev-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jfigueroa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusmfr93)
