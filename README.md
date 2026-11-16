@@ -75,11 +75,11 @@ approaching problems. I work in English, Spanish and Italian.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sacrament-meetings-weld.vercel.app"><img src="https://raw.githubusercontent.com/JKs162426/sacrament-meetings/main/docs/screenshot.jpg" alt="Sacrament Meeting Program"></a>
-      <h3>Sacrament Meeting Program</h3>
-      Plan, manage and share sacrament meeting programs — hymns, prayers, speakers and ward business.<br>
-      <sub>Next.js · TypeScript · Neon Postgres · Auth.js</sub><br>
-      <a href="https://sacrament-meetings-weld.vercel.app">Live</a> · <a href="https://github.com/JKs162426/sacrament-meetings">Code</a>
+      <a href="https://indol.vercel.app"><img src="https://raw.githubusercontent.com/JKs162426/lunar-landing-site-navigator/main/docs/screenshots/desktop.png" alt="Lunar Landing Site Navigator"></a>
+      <h3>Lunar Landing Site Navigator</h3>
+      NASA Space Apps Challenge 2026. Compares lunar south-pole landing sites by Sun and Earth altitude to find solar-power and direct-to-Earth communication windows. Validated against NASA/JPL SPICE.<br>
+      <sub>Next.js · TypeScript · astronomy-engine · Recharts · Vitest</sub><br>
+      <a href="https://indol.vercel.app">Live</a> · <a href="https://github.com/JKs162426/lunar-landing-site-navigator">Code</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://jfigueroa.dev"><img src="https://raw.githubusercontent.com/JKs162426/portfolio/main/docs/screenshot.jpg" alt="jfigueroa.dev"></a>
