@@ -75,7 +75,7 @@ approaching problems. I work in English, Spanish and Italian.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://indol.vercel.app"><img src="https://raw.githubusercontent.com/JKs162426/lunar-landing-site-navigator/main/docs/screenshots/desktop.png" alt="Lunar Landing Site Navigator"></a>
+      <a href="https://indol.vercel.app"><img src="https://raw.githubusercontent.com/JKs162426/JKs162426/main/docs/lunar-screenshot.jpg" alt="Lunar Landing Site Navigator"></a>
       <h3>Lunar Landing Site Navigator</h3>
       NASA Space Apps Challenge 2026. Compares lunar south-pole landing sites by Sun and Earth altitude to find solar-power and direct-to-Earth communication windows. Validated against NASA/JPL SPICE.<br>
       <sub>Next.js · TypeScript · astronomy-engine · Recharts · Vitest</sub><br>
@@ -93,6 +93,5 @@ approaching problems. I work in English, Spanish and Italian.
 
 ## 🌱 Right now
 
-- Building **HobbyHub** — a platform for people to share their interests and connect with others
 - Pursuing a Bachelor's in Software Development at BYU-Idaho
 - Open to opportunities, collaborations and interesting problems — [let's talk](mailto:jesus20jk@gmail.com)
